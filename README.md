@@ -27,6 +27,7 @@
 - 이동 : git checkout '브랜치명'
 - ~~삭제~~ : git branch -D '브랜치명'
 - 병합 : git merge '병합할 브랜치명'
+<br>
 
 ### 📝커밋
 - 파일 하나만 올릴 때 
