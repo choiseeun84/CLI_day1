@@ -30,22 +30,25 @@
 <br>
 
 ### 📝커밋
-- 파일 하나만 올릴 때 
+- 파일 하나만 스테이징
 : git add 파일명
-- 모든 파일 한번에 올릴 때
+- 모든 파일 한번에 스테이징
 : git add .
-- 커밋 이름 입력
+- 파일 커밋
 : git commit -m '커밋명'
+- 파일 스테이징 및 커밋
+: git commit -am '커밋명'
+<br>
+
+### 📝기록 및 되돌리기기
 - 로그 확인
 : git rog 
-- 로그 확인 한줄확인인
+- 로그 한줄 확인
 : git rog --oneline
 - soft 하게 돌아가기
 : git reset --soft 로그에서 확인 한 7자리파일명
 - hard 하게 돌아가기
 : git reset --hard 로그에서 확인 한 7자리파일명
-- 깃 바로 커밋
-: git commit -am '커밋명'
 
 <br><br>
 
